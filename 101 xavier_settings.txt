@@ -1,0 +1,8 @@
+
+youtube tuturials
+- SSD를 부팅디스크로 만들기 ( M.2 NVMe SSD )
+    - https://youtu.be/_EzstTHPO30
+- VirtualBox : 우분투 : SDK Manager(JetPack) 설치
+    - https://youtu.be/QSCtWEDsVB0
+- SDK Manager : SSD에 우분투 및 Jetpack 새롭게 설치하기
+    - https://youtu.be/XcTw-kA_PTI
